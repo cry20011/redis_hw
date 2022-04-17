@@ -53,4 +53,4 @@ redis-cli --cluster create 127.0.0.1:7000 127.0.0.1:7001 127.0.0.1:7002
 *** This is not possible with 3 nodes and 2 replicas per node.
 *** At least 9 nodes are required.       
 ```
-То есть я создал три мастера, и в redis-cluster они обязательно должны быть.
+То есть я создал три мастера, и в redis-cluster они обязательно должны быть, для n реплик нужно создавать n * (количество мастер-нод).
