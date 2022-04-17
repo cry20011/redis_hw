@@ -38,5 +38,8 @@ List ~20Мb
 
 
 # Кластер
-Развернул кластер из трех нод (по гайду https://redis.io/docs/manual/scaling/#:~:text=Redis%20Cluster%20provides%20a%20way,are%20not%20able%20to%20communicate).
+Развернул кластер из трех нод ([гайд](https://redis.io/docs/manual/scaling/#:~:text=Redis%20Cluster%20provides%20a%20way,are%20not%20able%20to%20communicate)) то есть создал директорию redis-cluster, в ней три директории 7000, 7001, 7002, в каждой создал файл redis.conf и выполнил команду:
+```
+redis-cli --cluster create 127.0.0.1:7000 127.0.0.1:7001 127.0.0.1:7002
+```
 ![](https://github.com/cry20011/redis_hw/raw/main/screens/screen1.png)
