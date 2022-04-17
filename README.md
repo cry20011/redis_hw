@@ -23,3 +23,16 @@ List ~20Мb
 ![](https://github.com/cry20011/redis_hw/raw/main/screens/screen12.png)
 
 # Чтение данных
+Чтение строки:
+![](https://github.com/cry20011/redis_hw/raw/main/screens/screen13.png)
+
+
+Чтение данных из hset, всё выполняется за несколько миллисекунд:
+![](https://github.com/cry20011/redis_hw/raw/main/screens/screen14.png)
+
+
+Чтение данных из zset, тоже всё выполняется за несколько миллисекунд:
+![](https://github.com/cry20011/redis_hw/raw/main/screens/screen15.png)
+
+Чтение данных из list, тоже всё выполняется за несколько миллисекунд, кроме:
+![](https://github.com/cry20011/redis_hw/raw/main/screens/screen15.png)
