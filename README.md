@@ -3,19 +3,19 @@
 ![](https://github.com/cry20011/redis_hw/raw/main/screens/screen1.png)
 ![](https://github.com/cry20011/redis_hw/raw/main/screens/screen10.png)
 # Заполнение данными
-Строка 20Мb
+Строка ~20Мb
 ![](https://github.com/cry20011/redis_hw/raw/main/screens/screen4.png)
 
 
-Hset 20Мb
+Hset ~20Мb
 ![](https://github.com/cry20011/redis_hw/raw/main/screens/screen5.png)
 
 
-Zset 20Мb
+Zset ~20Мb
 ![](https://github.com/cry20011/redis_hw/raw/main/screens/screen7.png)
 
 
-List 20Мb
+List ~20Мb
 ![](https://github.com/cry20011/redis_hw/raw/main/screens/screen8.png)
 
 
