@@ -4,10 +4,10 @@
 ![](https://github.com/cry20011/mongodb_hw/raw/main/screens/screen10.png)
 # Заполнение данными
 Строка 20Мb
-![](https://github.com/cry20011/mongodb_hw/raw/main/screens/screen4.png)
+![](https://github.com/cry20011/redis_hw/raw/main/screens/screen4.png)
 Hset 20Мb
-![](https://github.com/cry20011/mongodb_hw/raw/main/screens/screen5.png)
+![](https://github.com/cry20011/redis_hw/raw/main/screens/screen5.png)
 Zset 20Мb
-![](https://github.com/cry20011/mongodb_hw/raw/main/screens/screen7.png)
+![](https://github.com/cry20011/redis_hw/raw/main/screens/screen7.png)
 List 20Мb
-![](https://github.com/cry20011/mongodb_hw/raw/main/screens/screen8.png)
+![](https://github.com/cry20011/redis_hw/raw/main/screens/screen8.png)
