@@ -18,6 +18,8 @@ Zset ~20Мb
 List ~20Мb
 ![](https://github.com/cry20011/redis_hw/raw/main/screens/screen8.png)
 
-
-Получилось:
+В среднем 2.5 секунды для 34000 запросов для hset zset и list, вроде неплохо, 0.5 секунды для строки.
+В базе получилось:
 ![](https://github.com/cry20011/redis_hw/raw/main/screens/screen9.png)
+
+# Чтение данных
