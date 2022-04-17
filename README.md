@@ -1,5 +1,5 @@
 # Домашнее задание 3 Redis
-Установил RedisInsight, и на виртуалке запустил redis-server.
+Установил RedisInsight, и на виртуалке запустил redis-server и кластер (но это чуть позже).
 ![](https://github.com/cry20011/redis_hw/raw/main/screens/screen10.png)
 # Заполнение данными
 Строка ~20Мb
