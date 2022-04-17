@@ -47,7 +47,7 @@ redis-cli --cluster create 127.0.0.1:7000 127.0.0.1:7001 127.0.0.1:7002
 
 При попытке создать одного мастера и две реплики:
 ```
-redis-cli --cluster create 127.0.0.1:7000 127.0.0.1:7001 127.0.0.1:7002 --cluster-replicas 2
+:~$ redis-cli --cluster create 127.0.0.1:7000 127.0.0.1:7001 127.0.0.1:7002 --cluster-replicas 2
 *** ERROR: Invalid configuration for cluster creation.
 *** Redis Cluster requires at least 3 master nodes.
 *** This is not possible with 3 nodes and 2 replicas per node.
