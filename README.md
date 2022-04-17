@@ -1,6 +1,5 @@
 # Домашнее задание 3 Redis
-Установил RedisInsight, и на виртуалке запустил redis-server и создал кластер из трех нод.
-![](https://github.com/cry20011/redis_hw/raw/main/screens/screen1.png)
+Установил RedisInsight, и на виртуалке запустил redis-server.
 ![](https://github.com/cry20011/redis_hw/raw/main/screens/screen10.png)
 # Заполнение данными
 Строка ~20Мb
@@ -36,3 +35,8 @@ List ~20Мb
 
 Чтение данных из list, тоже всё выполняется за несколько миллисекунд:
 ![](https://github.com/cry20011/redis_hw/raw/main/screens/screen16.png)
+
+
+# Кластер
+Развернул кластер из трех нод (по гайду https://redis.io/docs/manual/scaling/#:~:text=Redis%20Cluster%20provides%20a%20way,are%20not%20able%20to%20communicate).
+![](https://github.com/cry20011/redis_hw/raw/main/screens/screen1.png)
